@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer passionate about building efficient, scalable, and user-friendly applications.<br>🏗️ Continuously learning and improving in system design and agile development methodologies—always striving to get better.<br>🌟 Love diving into the full software development lifecycle—mobile, web, and back-end systems.<br>🎯 Always striving to learn, grow, and contribute to impactful projects.
+💻 Software Engineer passionate about building efficient, scalable, and user-friendly applications.<br>🏗️ Continuously learning and improving in system design—always striving to get better.<br>🌟 Love diving into the full software development lifecycle—mobile, web, and back-end systems.<br>🎯 Always striving to learn, grow, and contribute to impactful projects.
 
 
 ## 🌐 Socials:
